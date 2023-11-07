@@ -1,58 +1,36 @@
-2023-06-15 02:00:10,912 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 17.0.4.1 on DESKTOP-K47KLI0 with PID 9376 (started by Huy in D:\Learning\Udacity\Workspace\Security-and-DevOps)
-2023-06-15 02:00:10,917 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.7.12, Spring v5.3.27
-2023-06-15 02:00:10,917 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
-2023-06-15 02:00:13,639 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 2.876 seconds (JVM running for 3.7)
-2023-06-15 02:00:13,867 INFO c.e.d.c.UserController [main] [INFO][UserController][createUser]:User name test is successfully created
-2023-06-15 02:00:13,872 ERROR c.e.d.c.UserController [main] [ERROR][UserController][createUser]: Confirmed password does not match password.
-2023-06-15 02:00:13,872 ERROR c.e.d.c.UserController [main] [ERROR][UserController][createUser]: password length must be greater than 7.
-2023-06-15 02:15:03,277 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 17.0.4.1 on DESKTOP-K47KLI0 with PID 18164 (started by Huy in D:\Learning\Udacity\Workspace\Security-and-DevOps)
-2023-06-15 02:15:03,282 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.7.12, Spring v5.3.27
-2023-06-15 02:15:03,282 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
-2023-06-15 02:15:06,062 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 2.949 seconds (JVM running for 3.732)
-2023-06-15 02:15:06,297 INFO c.e.d.c.UserController [main] [INFO][UserController][createUser]:User name test is successfully created
-2023-06-15 02:15:06,301 ERROR c.e.d.c.UserController [main] [ERROR][UserController][createUser]: Confirmed password does not match password.
-2023-06-15 02:15:06,301 ERROR c.e.d.c.UserController [main] [ERROR][UserController][createUser]: password length must be greater than 7.
-2023-06-15 02:16:33,790 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 17.0.4.1 on DESKTOP-K47KLI0 with PID 7128 (started by Huy in D:\Learning\Udacity\Workspace\Security-and-DevOps)
-2023-06-15 02:16:33,795 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.7.12, Spring v5.3.27
-2023-06-15 02:16:33,795 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
-2023-06-15 02:16:36,529 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 2.882 seconds (JVM running for 3.673)
-2023-06-15 02:16:36,755 INFO c.e.d.c.UserController [main] [INFO][UserController][createUser]:User name test is successfully created
-2023-06-15 02:16:36,759 ERROR c.e.d.c.UserController [main] [ERROR][UserController][createUser]: Confirmed password does not match password.
-2023-06-15 02:16:36,759 ERROR c.e.d.c.UserController [main] [ERROR][UserController][createUser]: password length must be greater than 7.
-2023-06-15 02:20:44,145 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 17.0.4.1 on DESKTOP-K47KLI0 with PID 12652 (started by Huy in D:\Learning\Udacity\Workspace\Security-and-DevOps)
-2023-06-15 02:20:44,150 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.7.12, Spring v5.3.27
-2023-06-15 02:20:44,151 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
-2023-06-15 02:20:46,848 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 2.842 seconds (JVM running for 3.657)
-2023-06-15 02:20:47,078 INFO c.e.d.c.UserController [main] [INFO][UserController][createUser]:User name test is successfully created
-2023-06-15 02:20:47,082 ERROR c.e.d.c.UserController [main] [ERROR][UserController][createUser]: Confirmed password does not match password.
-2023-06-15 02:20:47,082 ERROR c.e.d.c.UserController [main] [ERROR][UserController][createUser]: password length must be greater than 7.
-2023-06-15 02:21:30,632 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 17.0.4.1 on DESKTOP-K47KLI0 with PID 12496 (started by Huy in D:\Learning\Udacity\Workspace\Security-and-DevOps)
-2023-06-15 02:21:30,637 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.7.12, Spring v5.3.27
-2023-06-15 02:21:30,637 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
-2023-06-15 02:21:33,370 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 2.88 seconds (JVM running for 3.696)
-2023-06-15 02:21:33,588 INFO c.e.d.c.UserController [main] [INFO][UserController][createUser]:User name test is successfully created
-2023-06-15 02:21:33,592 ERROR c.e.d.c.UserController [main] [ERROR][UserController][createUser]: Confirmed password does not match password.
-2023-06-15 02:21:33,592 ERROR c.e.d.c.UserController [main] [ERROR][UserController][createUser]: password length must be greater than 7.
-2023-06-15 02:42:49,471 INFO c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: Order requests successes for user "test"
-2023-06-15 02:43:31,609 ERROR c.e.d.c.OrderController [main] [OrderController][submit]: User "test" cannot be found
-2023-06-15 02:43:31,612 INFO c.e.d.c.OrderController [main] [OrderController][submit]: Order requests failures for user "test"
-2023-06-15 02:43:31,622 INFO c.e.d.c.OrderController [main] [OrderController][submit]: Order requests successes for user "test"
-2023-06-15 02:43:31,622 ERROR c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: User "test" cannot be found
-2023-06-15 02:43:31,623 INFO c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: Order requests successes for user "test"
-2023-06-15 02:44:41,333 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 17.0.4.1 on DESKTOP-K47KLI0 with PID 10924 (started by Huy in D:\Learning\Udacity\Workspace\Security-and-DevOps)
-2023-06-15 02:44:41,338 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.7.12, Spring v5.3.27
-2023-06-15 02:44:41,338 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
-2023-06-15 02:44:44,054 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 2.865 seconds (JVM running for 3.669)
-2023-06-15 02:44:44,281 INFO c.e.d.c.UserController [main] [UserController][createUser]:User name test is successfully created
-2023-06-15 02:44:44,285 ERROR c.e.d.c.UserController [main] [UserController][createUser]: Confirmed password does not match password.
-2023-06-15 02:44:44,285 ERROR c.e.d.c.UserController [main] [UserController][createUser]: password length must be greater than 7.
-2023-06-15 02:44:44,322 ERROR c.e.d.c.OrderController [main] [OrderController][submit]: User "test" cannot be found
-2023-06-15 02:44:44,322 INFO c.e.d.c.OrderController [main] [OrderController][submit]: Order requests failures for user "test"
-2023-06-15 02:44:44,322 INFO c.e.d.c.OrderController [main] [OrderController][submit]: Order requests successes for user "test"
-2023-06-15 02:44:44,323 ERROR c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: User "test" cannot be found
-2023-06-15 02:44:44,323 INFO c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: Order requests successes for user "test"
-2023-11-04 13:31:57,120 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication using Java 20.0.2 on TABLET-1EVDJLSL with PID 3664 (C:\Users\topt4\Downloads\Udacity-Security-and-DevOps-master\target\classes started by topt4 in C:\Users\topt4\Downloads\Udacity-Security-and-DevOps-master)
-2023-11-04 13:31:57,162 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.7.12, Spring v5.3.27
-2023-11-04 13:31:57,164 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to 1 default profile: "default"
-2023-11-04 13:32:07,359 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
-2023-11-04 13:32:08,502 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 12.326 seconds (JVM running for 15.153)
+2023-11-07 19:25:21,615 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 17.0.8 on DESKTOP-F0T178L with PID 19812 (started by Boteo in D:\Learning\Udacity\Workspace\project-4-main\project-4-main)
+2023-11-07 19:25:21,620 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-11-07 19:25:21,620 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2023-11-07 19:25:24,250 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 2.778 seconds (JVM running for 3.575)
+2023-11-07 19:25:24,473 INFO c.e.d.c.UserController [main] [UserController][createUser]:User name test is successfully created
+2023-11-07 19:25:24,477 ERROR c.e.d.c.UserController [main] [UserController][createUser]: Confirm password does not match password.
+2023-11-07 19:25:24,477 ERROR c.e.d.c.UserController [main] [UserController][createUser]: Please enter a password of 7 characters or more.
+2023-11-07 19:25:24,516 ERROR c.e.d.c.OrderController [main] [OrderController][submit]: User "test" cannot be found
+2023-11-07 19:25:24,516 INFO c.e.d.c.OrderController [main] [OrderController][submit]: Order requests failures for user "test"
+2023-11-07 19:25:24,517 INFO c.e.d.c.OrderController [main] [OrderController][submit]: Order requests successes for user "test"
+2023-11-07 19:25:24,517 ERROR c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: User "test" cannot be found
+2023-11-07 19:25:24,518 INFO c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: Order requests successes for user "test"
+2023-11-07 19:25:28,240 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 17.0.8 on DESKTOP-F0T178L with PID 19912 (started by Boteo in D:\Learning\Udacity\Workspace\project-4-main\project-4-main)
+2023-11-07 19:25:28,245 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-11-07 19:25:28,245 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2023-11-07 19:25:30,935 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 2.846 seconds (JVM running for 3.642)
+2023-11-07 19:25:31,171 INFO c.e.d.c.UserController [main] [UserController][createUser]:User name test is successfully created
+2023-11-07 19:25:31,176 ERROR c.e.d.c.UserController [main] [UserController][createUser]: Confirm password does not match password.
+2023-11-07 19:25:31,176 ERROR c.e.d.c.UserController [main] [UserController][createUser]: Please enter a password of 7 characters or more.
+2023-11-07 19:25:31,214 ERROR c.e.d.c.OrderController [main] [OrderController][submit]: User "test" cannot be found
+2023-11-07 19:25:31,214 INFO c.e.d.c.OrderController [main] [OrderController][submit]: Order requests failures for user "test"
+2023-11-07 19:25:31,214 INFO c.e.d.c.OrderController [main] [OrderController][submit]: Order requests successes for user "test"
+2023-11-07 19:25:31,215 ERROR c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: User "test" cannot be found
+2023-11-07 19:25:31,215 INFO c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: Order requests successes for user "test"
+2023-11-07 19:25:34,777 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 17.0.8 on DESKTOP-F0T178L with PID 19212 (started by Boteo in D:\Learning\Udacity\Workspace\project-4-main\project-4-main)
+2023-11-07 19:25:34,782 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-11-07 19:25:34,782 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2023-11-07 19:25:37,591 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 3.004 seconds (JVM running for 3.808)
+2023-11-07 19:25:37,819 INFO c.e.d.c.UserController [main] [UserController][createUser]:User name test is successfully created
+2023-11-07 19:25:37,823 ERROR c.e.d.c.UserController [main] [UserController][createUser]: Confirm password does not match password.
+2023-11-07 19:25:37,823 ERROR c.e.d.c.UserController [main] [UserController][createUser]: Please enter a password of 7 characters or more.
+2023-11-07 19:25:37,859 ERROR c.e.d.c.OrderController [main] [OrderController][submit]: User "test" cannot be found
+2023-11-07 19:25:37,860 INFO c.e.d.c.OrderController [main] [OrderController][submit]: Order requests failures for user "test"
+2023-11-07 19:25:37,860 INFO c.e.d.c.OrderController [main] [OrderController][submit]: Order requests successes for user "test"
+2023-11-07 19:25:37,861 ERROR c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: User "test" cannot be found
+2023-11-07 19:25:37,861 INFO c.e.d.c.OrderController [main] [OrderController][getOrdersForUser]: Order requests successes for user "test"
